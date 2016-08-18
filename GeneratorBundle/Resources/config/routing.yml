@@ -1,0 +1,3 @@
+generator_homepage:
+    path:     /
+    defaults: { _controller: GeneratorBundle:Default:index }

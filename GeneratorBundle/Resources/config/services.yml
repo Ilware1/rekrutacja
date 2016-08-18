@@ -1,0 +1,3 @@
+services:
+    generator.number:
+        class: GeneratorBundle\Services\FloatGenerator
