@@ -1,0 +1,7 @@
+services:
+    sort.database:
+        class: SortBundle\Services\Database
+        arguments: ["@doctrine.orm.entity_manager"]
+
+    sort.standard:
+        class: SortBundle\Services\Standard
