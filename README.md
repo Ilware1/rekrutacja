@@ -18,6 +18,7 @@ również znajduje się tam kreator i przeprowadzi przez cały proces , output z
 Sortowanie posiada dwie opcje :
  * database
  * standard
+
 przy wywoływaniu opcji database należy wczęniej skonfigurować połącznie do bazy mysql w pliku parameters.yml
 
 
