@@ -14,10 +14,10 @@ Kolejny bundle służy do sortowania plików, uruchamia się go poleceniem
 $ php bin/console file:sort
 ```
 również znajduje się tam kreator i przeprowadzi przez cały proces , output znajduje się w vars/output.
----------
+
 Sortowanie posiada dwie opcje :
--database
--standard
+ * database
+ * standard
 przy wywoływaniu opcji database należy wczęniej skonfigurować połącznie do bazy mysql w pliku parameters.yml
 
 
